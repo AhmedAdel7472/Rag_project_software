@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.ipynb_checkpoints
+
+# Databases and cache
+nike_chroma_db/
+.chroma/
+
+# Environments and secrets
+.env
+.env.local
+
+# IDE configurations
+.idea/
+.vscode/
